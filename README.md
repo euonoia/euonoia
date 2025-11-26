@@ -7,7 +7,7 @@
 
 <!-- Name & Description -->
 <h1 align="center">Hi 👋, I'm Ken Española</h1>
-<h3 align="center">A passionate software developer dreaming to be a software engineer</h3>
+<h3 align="center">A passionate junior full-stack software developer dreaming to be a software engineer</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **[Euonroia](https://euonroia.onrender.com/)**
-- 🌱 Learning **Data Structures and Algorithms**
+- 🌱 Learning **Data Structures and Algorithm**
 - 👨‍💻 All of my projects: **[GitHub Portfolio](https://github.com/euonoia)**
 - 📫 Reach me at **kenespanola04@gmail.com**
 - ⚡ Fun fact: *Built 2 systems with a fractured arm (school project)*
