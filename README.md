@@ -86,14 +86,26 @@
 <!-- GitHub Stats -->
 <p align="left">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euonoia&layout=compact&theme=react&hide=Jupyter%20Notebook" alt="Top Languages" width="48%" />
-  
+  <img 
+    src="https://github-readme-stats-kappa-henna-15.vercel.app/api/top-langs/?username=euonoia&layout=compact&theme=react&hide=Jupyter%20Notebook" 
+    alt="Top Languages" 
+    width="48%" 
+  />
+
   <!-- General GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=euonoia&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" width="48%" />
+  <img 
+    src="https://github-readme-stats-kappa-henna-15.vercel.app/api?username=euonoia&show_icons=true&count_private=true&theme=react" 
+    alt="GitHub Stats" 
+    width="48%" 
+  />
 </p>
 
 <p align="left">
-  <!-- Streak Stats (using demolab service, more reliable than Heroku) -->
-  <img src="https://streak-stats.demolab.com?user=euonoia&theme=react&hide_border=false" alt="GitHub Streak" width="100%" />
+  <img 
+    src="https://streak-stats.demolab.com?user=euonoia&theme=react&hide_border=false" 
+    alt="GitHub Streak" 
+    width="100%" 
+  />
 </p>
+
 
