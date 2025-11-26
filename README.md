@@ -5,7 +5,7 @@
        width="100%" />
 </p>
 
-<!-- Title -->
+<!-- Name & Description -->
 <h1 align="center">Hi 👋, I'm Ken Española</h1>
 <h3 align="center">A passionate software developer dreaming to be a software engineer</h3>
 
@@ -61,32 +61,13 @@
 
 ## 📊 GitHub Stats
 
-### ⭐ Left & Right Split (Full Responsive)
+| Top Languages | GitHub Stats |
+|---------------|-------------|
+| <img src="https://github-readme-stats-kappa-henna-15.vercel.app/api/top-langs/?username=euonoia&layout=compact&theme=react&hide=Jupyter%20Notebook" width="350"/> | <img src="https://github-readme-stats-kappa-henna-15.vercel.app/api?username=euonoia&show_icons=true&count_private=true&theme=react" width="350"/> |
 
-<div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
-
-  <img 
-    src="https://github-readme-stats-kappa-henna-15.vercel.app/api/top-langs/?username=euonoia&layout=compact&theme=react&hide=Jupyter%20Notebook" 
-    alt="Top Languages" 
-    height="200"
-    style="flex: 1; min-width: 280px;"
-  />
-
-  <img 
-    src="https://github-readme-stats-kappa-henna-15.vercel.app/api?username=euonoia&show_icons=true&count_private=true&theme=react" 
-    alt="GitHub Stats" 
-    height="200"
-    style="flex: 1; min-width: 280px;"
-  />
-
-</div>
+---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=euonoia&theme=react&hide_border=false" 
-    width="100%" 
-  />
+  <img src="https://streak-stats.demolab.com?user=euonoia&theme=react&hide_border=false" width="100%" />
 </p>
-
----
