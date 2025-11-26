@@ -1,21 +1,25 @@
-<!-- GIF Header -->
+<!-- Hero GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Ken Española GIF" width="200"/>
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Ken Española GIF" width="1200"/>
 </p>
 
+<!-- Name & Description -->
 <h1 align="center">Hi 👋, I'm Ken Española</h1>
 <h3 align="center">A passionate software developer dreaming to be a software engineer</h3>
 
-<p align="left"> 
+<!-- Profile Views -->
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=euonoia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on [Euonroia](https://euonroia.onrender.com/)
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/euonoia)
-- 📫 How to reach me: **kenespanola04@gmail.com**
+<!-- About & Rapid Fire -->
+- 🔭 I’m currently working on [Euonroia](https://euonroia.onrender.com/)  
+- 🌱 I’m currently learning **Data Structures and Algorithms**  
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/euonoia)  
+- 📫 How to reach me: **kenespanola04@gmail.com**  
 - ⚡ Fun fact: **I created two systems with my left arm fractured (school project)**
 
+<!-- Connect -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/marben-ken-española-3148b0398" target="_blank">
@@ -26,6 +30,7 @@
   </a>
 </p>
 
+<!-- Skills -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -78,6 +83,7 @@
   </a> 
 </p>
 
+<!-- GitHub Stats -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euonoia&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
