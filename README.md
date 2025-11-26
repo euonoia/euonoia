@@ -7,7 +7,7 @@
 
 <!-- Name & Description -->
 <h1 align="center">Hi 👋, I'm Ken Española</h1>
-<h3 align="center">A passionate junior full-stack software developer dreaming to be a software engineer</h3>
+<h3 align="center">Passionate junior full-stack developer aspiring to be a software engineer</h3>
 
 <!-- Profile Views -->
 <p align="center">
