@@ -68,16 +68,19 @@ Showcasing my commitment and consistency in coding.
 
 I'm actively looking for opportunities where I can contribute, learn, and grow into a top-tier software engineer. Let's build something great together.
 
-<p align="left">
+
+  <p align="left">
   <a href="https://linkedin.com/in/marben-ken-española-3148b0398" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
   <a href="https://fb.com/kennyyyyyyyyyyy" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  **Email:** **<a href="mailto:kenespanola04@gmail.com">kenespanola04@gmail.com</a>**
+  <a href="mailto:kenespanola04@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="45" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=euonoia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
