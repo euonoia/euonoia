@@ -68,7 +68,8 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.herokuapp.com/?user=euonoia&theme=react&hide_border=false" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=euonoia&theme=react&hide_border=false" />
 </p>
+
 
 
