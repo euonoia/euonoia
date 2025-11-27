@@ -16,7 +16,7 @@ I am a dedicated junior full-stack developer with a strong foundation and a hung
 * 🔭 **Currently Working On:** **[Euonroia](https://euonroia.onrender.com/)** (A great example of my full-stack capabilities)
 * 🌱 **Deepening Knowledge In:** **Data Structures and Algorithms** to write more efficient and scalable code.
 * 👨‍💻 **Portfolio Showcase:** Explore all my work on my **[GitHub Portfolio](https://github.com/euonoia)**.
-* ⚡ **Fun Fact:** I built two complex school systems *with a fractured arm* — proof that I never back down from a challenge!
+* ⚡ **Fun Fact:** I always push myself into the environment that i am not familliar
 
 ---
 
