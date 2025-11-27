@@ -68,8 +68,9 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats-euonoia.vercel.app?user=euonoia&theme=react&hide_border=false" width="100%" />
+  <img src="https://github-readme-stats-kappa-henna-15.vercel.app?username=euonoia&theme=react&hide_border=false" width="100%" />
 </p>
+
 
 
 
