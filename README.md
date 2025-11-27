@@ -77,7 +77,7 @@ I'm actively looking for opportunities where I can contribute, learn, and grow i
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
   </a>
   <a href="mailto:kenespanola04@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="45" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="35" width="45" />
   </a>
 </p>
 
