@@ -53,9 +53,7 @@ A comprehensive overview of the languages and tools I use to bring ideas to life
 
 ---
 
-## 📊 My GitHub Activity
-
-Showcasing my commitment and consistency in coding.
+## 📊 GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats-kappa-henna-15.vercel.app/api/top-langs/?username=euonoia&layout=compact&theme=react&hide=Jupyter%20Notebook" alt="Top Languages" width="49%" />
@@ -64,10 +62,7 @@ Showcasing my commitment and consistency in coding.
 
 ---
 
-## 📧 Connect & Hire Me
-
-I'm actively looking for opportunities where I can contribute, learn, and grow into a top-tier software engineer. Let's build something great together.
-
+## 📧 Connect 
 
   <p align="left">
   <a href="https://linkedin.com/in/marben-ken-española-3148b0398" target="_blank">
