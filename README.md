@@ -13,7 +13,7 @@
 
 I am a dedicated junior full-stack developer with a strong foundation and a hunger for growth. My experience includes developing and deploying functional systems, even under challenging circumstances, showcasing my commitment and resilience.
 
-* 🔭 **Currently Working On:** **[onprogress](https://example.com/)** (A great example of my full-stack capabilities)
+* 🔭 **Currently Working On:** **[concord](https://concord-rn71.onrender.com)** (A great example of my full-stack capabilities)
 * 🌱 **Deepening Knowledge In:** **Data Structures and Algorithms** to write more efficient and scalable code.
 * 👨‍💻 **Portfolio Showcase:** Explore all my work on my **[GitHub Portfolio](https://github.com/euonoia)**.
 * ⚡ **Fun Fact:** I always push myself into the environment that i am not familliar
