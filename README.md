@@ -4,8 +4,6 @@
        width="100%" />
 </p>
 
-<h1 align="center">👋 Hello, I'm Ken Española</h1>
-<h3 align="center">Passionate Junior Full-Stack Developer aspiring to be a Software Engineer</h3>
 
 ---
 
