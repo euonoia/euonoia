@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Ken Española Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Ken Española 👋</h1>
 <p align="center">
   <strong>Full-Stack Developer | Problem Solver | Continuous Learner</strong>
 </p>
