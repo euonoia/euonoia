@@ -16,8 +16,8 @@
 I am a dedicated **Junior Full-Stack Developer** with a passion for building scalable web applications and a hunger for tackling complex technical challenges. I thrive in unfamiliar environments, using them as a catalyst for rapid growth and professional resilience.
 
 * **🛠️ Currently Building:** **[Eunoia](https://euonroia.onrender.com/)** – A comprehensive full-stack web ecosystem focused on seamless user experience.
-* **✅ Recent Milestone:** **[Concord](https://concord-rn71.onrender.com)** – A robust school management system integrated with cloud-based databases.
-* **📚 Deep Diving:** Currently mastering **Data Structures & Algorithms (DSA)** to architect more efficient and optimized backend systems.
+* **✅ Recent Milestone:** **[Concord](https://concord-rn71.onrender.com)** – A robust school management system featuring automated grading and administrative modules, integrated with cloud-based databases.
+  * *Collaborators:* [Name 1](https://github.com/username1), [Name 2](https://github.com/username2), & [Name 3](https://github.com/username3)* **📚 Deep Diving:** Currently mastering **Data Structures & Algorithms (DSA)** to architect more efficient and optimized backend systems.
 * **💡 Fun Fact:** I embrace the "uncomfortable" to accelerate my learning curve.
 
 ---
