@@ -7,19 +7,19 @@
 
 ---
 
-## 🚀 About Me: Building & Learning
+##  About Me: Building & Learning
 
 I am a dedicated junior full-stack developer with a strong foundation and a hunger for growth. My experience includes developing and deploying functional systems, even under challenging circumstances, showcasing my commitment and resilience.
 
-* 🔭 **Currently Working On:** **[Euonroia](https://euonroia.onrender.com/)** – my current full-stack web project that I am actively developing and improving.
+* **Currently Working On:** **[Euonroia](https://euonroia.onrender.com/)** – my current full-stack web project that I am actively developing and improving.
 
-* 🏁 **Completed Project:** **[Concord](https://concord-rn71.onrender.com)** – our school project system, a full-stack web application built using Laravel and cloud db
+* **Completed Project:** **[Concord](https://concord-rn71.onrender.com)** – our school project system, a full-stack web application built using Laravel and cloud db
 
-* 🌱 **Currently Improving:** **Data Structures and Algorithms** to write more efficient, optimized, and scalable code.
+* **Currently Improving:** **Data Structures and Algorithms** to write more efficient, optimized, and scalable code.
 
-* 👨‍💻 **Portfolio Showcase:** Explore all of my projects on my **[GitHub Portfolio](https://github.com/euonoia)**.
+* **Portfolio Showcase:** Explore all of my projects on my **[GitHub Portfolio](https://github.com/euonoia)**.
 
-* ⚡ **Fun Fact:** I always push myself into environments that I’m not familiar with so I can learn faster and grow as a developer.
+* **Fun Fact:** I always push myself into environments that I’m not familiar with so I can learn faster and grow as a developer.
 ---
 
 ## 🛠️ Tech Stack & Expertise
