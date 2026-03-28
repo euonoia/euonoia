@@ -16,7 +16,7 @@
 
 I am a dedicated **Junior Full-Stack Developer** with a passion for building functional systems and a hunger for professional growth. I thrive in challenging environments that push me to learn faster and write more efficient code.
 
-* **🛠️ Currently Building:** **[Eunoia](https://euonroia.onrender.com/)** – A comprehensive full-stack web project focused on seamless user experience and modern UI.
+* **🛠️ Currently Building:** **[Eunoia](https://euonroia.onrender.com/)** – A full-stack platform designed to teach users how to code through immersive, game-like experiences.
 * **✅ Recent Milestone:** **[Concord](https://concord-rn71.onrender.com)** – A robust school management system featuring automated administrative modules, built with **Laravel** and **TiDB**.
   * **Collaborators:** [@Franzwll](https://github.com/Franzwll), [@Darktodoom123](https://github.com/Darktodoom123), [@vincentsasi9-ctrl](https://github.com/vincentsasi9-ctrl), [@sakielz](https://github.com/sakielz), & [@NotLeww](https://github.com/NotLeww)
 * **📚 Currently Improving:** **Data Structures & Algorithms (DSA)** to architect more scalable and optimized systems.
