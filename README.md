@@ -64,7 +64,3 @@ I am a dedicated **Junior Full-Stack Developer** with a passion for building fun
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</p>
