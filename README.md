@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Ken Española Banner" width="100%" />
 </p>
+
+<h1 align="center">Hi, I'm Ken Española 👋</h1>
 <p align="center">
   <strong>Full-Stack Developer | Problem Solver | Continuous Learner</strong>
 </p>
@@ -11,14 +13,15 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me & Projects
 
-I am a dedicated **Junior Full-Stack Developer** with a passion for building scalable web applications and a hunger for tackling complex technical challenges. I thrive in unfamiliar environments, using them as a catalyst for rapid growth and professional resilience.
+I am a dedicated **Junior Full-Stack Developer** with a passion for building functional systems and a hunger for professional growth. I thrive in challenging environments that push me to learn faster and write more efficient code.
 
-* **🛠️ Currently Building:** **[Eunoia](https://euonroia.onrender.com/)** – A comprehensive full-stack web ecosystem focused on seamless user experience.
-* **✅ Recent Milestone:** **[Concord](https://concord-rn71.onrender.com)** – A robust school management system featuring automated grading and administrative modules, integrated with cloud-based databases.
-  * *Collaborators:* [Name 1](https://github.com/username1), [Name 2](https://github.com/username2), & [Name 3](https://github.com/username3)* **📚 Deep Diving:** Currently mastering **Data Structures & Algorithms (DSA)** to architect more efficient and optimized backend systems.
-* **💡 Fun Fact:** I embrace the "uncomfortable" to accelerate my learning curve.
+* **🛠️ Currently Building:** **[Eunoia](https://euonroia.onrender.com/)** – A comprehensive full-stack web project focused on seamless user experience and modern UI.
+* **✅ Recent Milestone:** **[Concord](https://concord-rn71.onrender.com)** – A robust school management system featuring automated administrative modules, built with **Laravel** and **TiDB**.
+  * **Collaborators:** [@Franzwll](https://github.com/Franzwll), [@Darktodoom123](https://github.com/Darktodoom123), [@vincentsasi9-ctrl](https://github.com/vincentsasi9-ctrl), [@sakielz](https://github.com/sakielz), & [@NotLeww](https://github.com/NotLeww)
+* **📚 Currently Improving:** **Data Structures & Algorithms (DSA)** to architect more scalable and optimized systems.
+* **💡 Fun Fact:** I intentionally seek out unfamiliar technologies to accelerate my development as a programmer.
 
 ---
 
@@ -33,7 +36,7 @@ I am a dedicated **Junior Full-Stack Developer** with a passion for building sca
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats-kappa-henna-15.vercel.app/api/top-langs/?username=euonoia&layout=compact&theme=react&hide=Jupyter%20Notebook" alt="Top Languages" width="48%" />
@@ -46,9 +49,7 @@ I am a dedicated **Junior Full-Stack Developer** with a passion for building sca
 
 ---
 
-### 📫 Let's Connect!
-
-I'm always open to collaborating on innovative projects or discussing the latest in web development.
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/marben-ken-española-3148b0398" target="_blank">
