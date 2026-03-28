@@ -11,8 +11,9 @@
 
 I am a dedicated junior full-stack developer with a strong foundation and a hunger for growth. My experience includes developing and deploying functional systems, even under challenging circumstances, showcasing my commitment and resilience.
 
+* 🔭 **Currently Working On:** **[Euonroia](https://euonroia.onrender.com/)** – my current full-stack web project that I am actively developing and improving.
 
-* 🔭 **Latest Project:** **[Concord](https://concord-rn71.onrender.com)** – our completed school project system, a full-stack web application that demonstrates our Laravel and full-stack development skills.
+* 🏁 **Completed Project:** **[Concord](https://concord-rn71.onrender.com)** – our school project system, a full-stack web application built using Laravel and modern frontend tools.
 
 * 🌱 **Currently Improving:** **Data Structures and Algorithms** to write more efficient, optimized, and scalable code.
 
