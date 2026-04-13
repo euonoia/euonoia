@@ -14,7 +14,7 @@
 
 ###  About Me & Projects
 
-I am a dedicated **Junior Full-Stack Developer** with a passion for building functional systems and a hunger for professional growth. I thrive in challenging environments that push me to learn faster and write more efficient code.
+I am a dedicated **Full-Stack Developer** with a passion for building functional systems and a hunger for professional growth. I thrive in challenging environments that push me to learn faster and write more efficient code.
 
 * ** Currently Building:** **[Eunoia](https://euonroia.onrender.com/)** – A full-stack platform designed to teach users how to code through immersive, game-like experiences.
 * ** Recent Milestone:** **[Concord](https://concord-rn71.onrender.com/)** – A full-featured **Hospital Management System** for our BPM course, integrating Core1, Core2, HR1–4, Financials, and Logistics1–2, built with **Laravel** & **TiDB**.  
