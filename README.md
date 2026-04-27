@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer | Problem Solver | Continuous Learner</strong>
+  <strong>DevSecOps Engineer | Secure Software Development | Python & Scalable Backend Architect</strong>
 </p>
 
 <p align="center">
