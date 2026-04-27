@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Security Engineer (DevSecOps) | Secure Software Architecture </strong>
+  <strong>I love what I am doing</strong>
 </p>
 
 <p align="center">
