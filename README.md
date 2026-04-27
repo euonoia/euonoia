@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>DevSecOps Engineer | Secure Software Development | Python & Scalable Backend Architect</strong>
+  <strong>Security Engineer (DevSecOps) | Secure Software Architecture </strong>
 </p>
 
 <p align="center">
